@@ -190,7 +190,7 @@ sysbench tpcc.lua \
 
 # Impact of the kasten backup during the execution of the benchmark 
 
-Then bench last 10 minutes 
+The bench last 10 minutes 
 
 ## Without a kasten backup
 
